@@ -16,3 +16,9 @@ code {
   width: 50%;
   background-color: aqua;
 }
+input{
+  outline: none;
+}
+input:focus{
+  outline: none;
+}
