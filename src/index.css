@@ -14,7 +14,8 @@ code {
 .search-filter{
   height: auto;
   width: 50%;
-  background-color: aqua;
+  background-color: rgb(38, 225, 225);
+  border: 2px solid black;
 }
 input{
   outline: none;
