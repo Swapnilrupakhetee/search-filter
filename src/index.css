@@ -12,6 +12,9 @@ code {
     monospace;
 }
 .search-filter{
+  display: flex;
+  align-content: center;
+  justify-content: center;
   height: auto;
   width: 50%;
   background-color: rgb(38, 225, 225);
