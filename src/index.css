@@ -12,17 +12,10 @@ code {
     monospace;
 }
 .search-filter{
-  display: flex;
-  align-content: center;
-  justify-content: center;
-  height: auto;
+  
+  text-align: center;
   width: 50%;
   background-color: rgb(38, 225, 225);
   border: 2px solid black;
-}
-input{
-  outline: none;
-}
-input:focus{
-  outline: none;
+  margin: 0 auto;
 }
